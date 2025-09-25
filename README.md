@@ -9,7 +9,8 @@
 
 ## 📷 Imagen destacada
 
-![Web Frases Inspiradoras](imagenes/web frases inspiradoras.PNG)  
+![Web Frases Inspiradoras](https://github.com/AnaJotta/FrasesInspiradoras/raw/main/imagenes/web%20frases%20inspiradoras.PNG)
+
 
 ---
 
@@ -65,6 +66,8 @@ El archivo frases.js contiene un arreglo con frases junto a sus autores. Cada ve
   git push origin feature/nueva-idea
   
 - Abre un Pull Request describiendo tus mejoras.
+
+---
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
